@@ -1,8 +1,9 @@
 
 function print(){
-
-echo "$1"
+val1=$1
+echo $val
 
 }
 #printing user argument 
 print $1
+echo $val
