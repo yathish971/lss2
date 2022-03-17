@@ -4,5 +4,5 @@ function print(){
 echo "$1"
 
 }
-
-print hi
+#printing user argument 
+print $1
